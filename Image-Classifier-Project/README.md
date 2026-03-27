@@ -39,13 +39,13 @@ The project demonstrates the full workflow for training a deep learning model: d
 
 ---
 
-##Key Results
+## Key Results
 - Training Accuracy: >99%
 - Validation Accuracy: ~87%
 - Test Accuracy: ~83%
 - The CNN-based classifier successfully learned to distinguish between 102 flower species using transfer learning.
 
 ---
-##Conclusion
+## Conclusion
 
-This project serves as a foundation for building AI applications that leverage image classification. The trained CNN can be integrated into mobile apps, web services, or any AI-driven system requiring image recognition.
+  This project serves as a foundation for building AI applications that leverage image classification. The trained CNN can be integrated into mobile apps, web services, or any AI-driven system requiring image recognition.
